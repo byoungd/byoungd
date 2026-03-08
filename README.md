@@ -1,5 +1,3 @@
-[![byoungd's github stats](https://github-readme-stats.vercel.app/api?username=byoungd&theme=dracula)](https://github.com/byoungd/)
-
 ## [离谱]是谁
 
 谈谈我对自己的印象吧，我想，我大抵是个有些孩子气的人。
