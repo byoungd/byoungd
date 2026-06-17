@@ -9,3 +9,15 @@
 后来，又有一任女朋友说我不适合当老师。我就写了个英语学习指南，教人学英语，现在在  GitHub  上的受欢迎程度，侥幸排到了第一。用谷歌搜索 [`英语学习指南`](https://www.google.com/search?q=%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97&sourceid=chrome&ie=UTF-8)，你会看到排在第一的就是 [**离谱的英语学习指南**](https://github.com/byoungd/English-level-up-tips)。
 
 因为这些前女友们的鄙夷，我还挑战过很多稀奇古怪的事，因为我本身有点与世无争，没有她们的刺激我也就没有动力去追求什么。所幸我运气不错，取得了一些微不足道的成就。
+
+现在，我又多了一个新的身份：**中国词元云计算有限公司董事长**。我仍然相信，计算不是终点，真正值得较真的，是那些计算背后无法被轻易计算的价值。
+
+<p align="center">
+  <img src="./assets/current-qwen.jpg" alt="分享千问大模型" width="48%" />
+  <img src="./assets/current-meeting.jpg" alt="会议交流现场" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./assets/current-cloud-power.jpg" alt="云计算和数智技术展区" width="32%" />
+  <img src="./assets/current-computing-value.jpg" alt="计算为了无法计算的价值" width="32%" />
+</p>
