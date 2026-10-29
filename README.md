@@ -1,6 +1,6 @@
 # 韩先凯 / 离谱：从个人站长到 AI 创业，中间还开过牛肉汤店
 
-嗨，我叫韩先凯，网名 **离谱**。吴彦祖的颜值巅峰期，就连我也要避其三分。很高兴认识你。
+嗨，我叫韩先凯，网名 **离谱**，也以 **法海不懂AI** 这个新 IP 分享 AI 相关内容。吴彦祖的颜值巅峰期，就连我也要避其三分。很高兴认识你。
 
 若把我的经历摊开，你会看到一些不太像出自同一份简历的东西：QQ 空间、iOS 论坛、海外网站、比特币、法律科技、小程序、牛肉汤店、温泉酒店，以及今天的 AI 算力与企业服务。它们确实都和我有关。至于为什么走得这么曲折，大概因为我一直有点孩子气，遇见感兴趣的东西，总想亲手试试。
 
@@ -166,4 +166,4 @@
 
 想继续读，可以从这些地方开始：[人生进阶指南](https://github.com/byoungd/up) · [完整创业复盘](https://github.com/byoungd/up/blob/master/docs/threads/part-2/entrepreneurship.md) · [我的故事](https://github.com/byoungd/up/blob/master/docs/threads/part-2/my-story.md) · [小程序指南](https://github.com/byoungd/how-to-create-a-funny-mini-program) · [另一份个人介绍](https://www.doubao.com/thread/xa6d27fc9d561832699480888ede569d5)。
 
-*更新于 2026 年 9 月 19 日。*
+*更新于 2026 年 10 月 29 日。*
